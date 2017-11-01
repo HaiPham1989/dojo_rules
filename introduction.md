@@ -7,3 +7,5 @@ Skills:
 * Git
 * Javascript
 *Ruby
+*.Net
+*Python
